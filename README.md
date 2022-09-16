@@ -1,6 +1,6 @@
-(https://img.shields.io/badge/score-125-success)
-(https://img.shields.io/badge/language-C-blue)
-(https://img.shields.io/badge/bonus-done-red)
+![GitHub All Releases](https://img.shields.io/badge/score-125-success)
+![GitHub All Releases](https://img.shields.io/badge/language-C-blue)
+![GitHub All Releases](https://img.shields.io/badge/bonus-done-red)
 # Libft
 ---
 This project is about coding a C library.
